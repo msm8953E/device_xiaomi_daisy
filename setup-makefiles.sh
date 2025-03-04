@@ -8,7 +8,7 @@
 
 set -e
 
-export DEVICE=sakura
+export DEVICE=daisy 
 export DEVICE_COMMON=msm8953-common
 export VENDOR=xiaomi
 
