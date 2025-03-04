@@ -21,7 +21,7 @@ PRODUCT_DEVICE := daisy
 PRODUCT_NAME := lineage_sakura
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := mi a2 lite
+PRODUCT_MODEL := Mi A2 lite
 PRODUCT_MANUFACTURER := Xiaomi
 TARGET_VENDOR := Xiaomi
 
@@ -33,5 +33,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "xiaomi/sakura/sakura:9/PKQ1.180917.001/V12.0.1.0.PDICNXM:user/release-keys"
 
-DROIDX_BUILD_TYPE := OFFICIAL
-DROIDX_GAPPS := true
